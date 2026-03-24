@@ -1,0 +1,15 @@
+{
+    "reminder_command.error.invalid_time": "Format de date invalide! Utilisez des formats comme `10s`, `5m`, `2d1h30m`, `3M`, ou une timestamp Unix.",
+    "reminder_command.embed.title": "Rappel défini!",
+    "reminder_command.embed.description": "**\"%s\"**\nÀ `%s (<t:%s:R>)`",
+    "reminder_command.response.message": "Rappel défini pour <@%s>: **\"%s\"** <t:%s:R>\nSera envoyé à: %s",
+    "reminder_command.error.invalid_format": "Format de date invalide! Utilisez `HH:MM` (UTC).",
+    "reminder.delivery_method.dm": "Message privé",
+    "reminder.delivery_method.channel": "Chaîne",
+    "reminders_command.error.no_reminders": "Vous n'avez aucun rappels actifs.",
+    "reminders_command.embed.title": "Vos rappels actifs",
+    "reminders_command.reminder_index": "Rappel %s",
+    "reminders_command.reminder_details": "**Titre:** %s\n**Date:** `%s UTC`\n**Déstination:** %s",
+    "check_reminders.dm_reminder": "Le rappel: **%s** est échu!",
+    "check_reminders.channel_reminder": "<@%s>, le rappel: **%s** est échu!"
+}

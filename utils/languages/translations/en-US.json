@@ -1,0 +1,15 @@
+{
+    "reminder_command.error.invalid_time": "Invalid time format! Use formats like `10s`, `5m`, `2d1h30m`, `3M`, or a Unix timestamp.",
+    "reminder_command.embed.title": "Reminder set!",
+    "reminder_command.embed.description": "**\"%s\"**\nAt `%s (<t:%s:R>)`",
+    "reminder_command.response.message": "Reminder set for <@%s>: **\"%s\"** <t:%s:R>\nWill be sent to: %s",
+    "reminder_command.error.invalid_format": "Invalid time format! Use `HH:MM` (UTC).",
+    "reminder.delivery_method.dm": "Direct message",
+    "reminder.delivery_method.channel": "Channel",
+    "reminders_command.error.no_reminders": "You have no active reminders.",
+    "reminders_command.embed.title": "Your Active Reminders",
+    "reminders_command.reminder_index": "Reminder %s",
+    "reminders_command.reminder_details": "**Label:** %s\n**Time:** `%s UTC`\n**Delivery:** %s",
+    "check_reminders.dm_reminder": "Reminder: **%s** is due!",
+    "check_reminders.channel_reminder": "<@%s>, reminder: **%s** is due!"
+}
